@@ -3,11 +3,10 @@
 A minimalist terminal for basic reconnaissance and testing operations.
 
 # 📋 Available Commands
-Command	Description
-Hohelp	Show all available commands
-HoOSINT	Gather information about a website
-HoDoS	Perform DoS testing on a website
-HoHTTPS	Check website status via HTTPS requests
+Hohelp - Show all available commands
+HoOSINT -	Gather information about a website
+HoDoS -	Perform DoS testing on a website
+HoHTTPS -	Check website status via HTTPS requests
 
 # 🚀 Quick Start:
 git clone https://github.com/s35774340-ux/HoHoHoSh.git
