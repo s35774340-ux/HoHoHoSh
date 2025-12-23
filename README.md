@@ -8,41 +8,14 @@ Hohelp	Show all available commands
 HoOSINT	Gather information about a website
 HoDoS	Perform DoS testing on a website
 HoHTTPS	Check website status via HTTPS requests
+
 🚀 Quick Start
-bash
-# Clone repository
-git clone https://github.com/yourusername/HoHoHoSh.git
-
-# Run terminal
+git clone https://github.com//HoHoHoSh.git
 cd HoHoHoSh
-python hohohosh.py
-📖 Usage Examples
-text
-HoHoHoSh > Hohelp
+python main.py
 
-Available commands:
-- Hohelp    - show this menu
-- HoOSINT   - gather website intelligence
-- HoDoS     - perform DoS testing
-- HoHTTPS   - check website status
-
-HoHoHoSh > HoOSINT example.com
-[Collecting data on example.com...]
-
-HoHoHoSh > HoHTTPS https://example.com
-[Checking website response...]
-
-HoHoHoSh > HoDoS example.com --time 30
-[Starting test...]
 ⚠️ Legal Warning
-This tool is intended ONLY for:
-
-Testing your own systems
-
-Educational purposes
-
-Authorized penetration testing
-
-Using against systems you don't own without permission is illegal.
+This tool is intended ONLY for authorized security testing and educational purposes. Using it against systems without explicit permission is illegal.
 
 HoHoHoSh - simple terminal for security testing.
+
