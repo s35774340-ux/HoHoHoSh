@@ -9,7 +9,7 @@ HoOSINT	Gather information about a website
 HoDoS	Perform DoS testing on a website
 HoHTTPS	Check website status via HTTPS requests
 
-🚀 Quick Start
+🚀 Quick Start:
 git clone https://github.com/s35774340-ux/HoHoHoSh.git
 cd HoHoHoSh
 python main.py
