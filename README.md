@@ -2,7 +2,7 @@
 
 A minimalist terminal for basic reconnaissance and testing operations.
 
-# 📋 Available Commands
+# 📋 Available Commands:
 Hohelp - Show all available commands
 HoOSINT -	Gather information about a website
 HoDoS -	Perform DoS testing on a website
