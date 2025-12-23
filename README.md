@@ -1,4 +1,4 @@
-# HoHoHoSh
+# HoHoHoSh:
 
 HoHoHoSh - is a shell for testing websites.
 
