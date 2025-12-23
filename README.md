@@ -1,20 +1,21 @@
 # HoHoHoSh
 
-A minimalist terminal for basic reconnaissance and testing operations.
+HoHoHoSh - is a shell for testing websites.
 
-# 📋 Available Commands:
-Hohelp - Show all available commands
-HoOSINT -	Gather information about a website
-HoDoS -	Perform DoS testing on a website
-HoHTTPS -	Check website status via HTTPS requests
+# To start using:
 
-# 🚀 Quick Start:
-git clone https://github.com/s35774340-ux/HoHoHoSh.git
-cd HoHoHoSh
-python main.py
+1.Open cmd or terminal.
+2.Install git (if you don't have it installed).
+3.Enter 'git clone https://github.com/s35774340-ux/HoHoHoSh.git'.
+4.Enter 'cd HoHoHoSh'.
+5.Enter 'python main.py'. 
 
-# ⚠️ Legal Warning
-This tool is intended ONLY for authorized security testing and educational purposes. Using it against systems without explicit permission is illegal.
+# All commands:
 
-HoHoHoSh - simple terminal for security testing.
+'Hohelp' - Show all available commands.
+'HoOSINT' - Gather information about a website.
+'HoDoS' - Perform DoS testing on a website.
+'HoHTTPS' - Check website status via HTTPS requests.
 
+# Legal warning:
+This project is intended for legal testing ONLY! 
